@@ -5,7 +5,7 @@ export default defineConfig({
   output: {
     dir: "dist",
     format: "es",
-    name: "card-manager",
+    name: "react-counter",
   },
   external: ["react", "react-dom"],
   plugins: [typescript({tsconfig:"tsconfig.json"})],

@@ -1,7 +1,7 @@
 {
-  "name": "card-manager",
+  "name": "react-counter",
   "version": "1.0.0",
-  "description": "A react package to manager cards",
+  "description": "A react npm package for counter functionality",
   "main": "dist/index.js",
   "type": "module",
   "types": "dist/index.d.ts",
